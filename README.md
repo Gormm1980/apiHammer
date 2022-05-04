@@ -62,3 +62,4 @@ INSTALLED_APPS = [
 # Crear un acceso al admin de Django
 
 - python manage.py createsuperuser
+
